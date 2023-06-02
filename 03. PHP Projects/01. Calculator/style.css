@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  letter-spacing: 2px;
+}
+
+.container {
+  background-color: green;
+  height: 595px;
+  width: device-width;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* These last three lines are used to center the inner div i.e. div with inner class */
+}
+.inner {
+  height: 300px;
+  width: 600px;
+  background-color: black;
+  color: wheat;
+}
+.col1 {
+  width: 50%;
+  height: 100%;
+  float: left;
+  color: #03c988;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 25px;
+}
+.col2 {
+  width: 50%;
+  float: right;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.app-form-group {
+  margin: 20px 10px 0px;
+}
+
+.select-style {
+  margin: 20px 10px 0px;
+}
+.button {
+  margin: 20px 10px 0px 70px;
+  font-size: 20px;
+  font-weight: 600;
+  color: green;
+  letter-spacing: 1px;
+}
+.one {
+  font-size: 20px;
+  background-color: black;
+  color: teal;
+  border: 1px solid black;
+  border-bottom: 1px solid white;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  letter-spacing: 1px;
+}
+
+.multiple {
+  font-size: 20px;
+  background-color: black;
+  color: teal;
+  border: 1px solid black;
+  letter-spacing: 1px;
+}
