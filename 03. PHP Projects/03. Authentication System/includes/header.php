@@ -12,18 +12,16 @@
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/carousel/">
 
     
-
     
-
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css
 " rel="stylesheet">
 
 
 <meta name="theme-color" content="#712cf9">
 
-<nav class="navbar navbar-expand-lg bg-light">
+<nav class="navbar navbar-expand-md bg-light">
   <div class="container">
-    <a class="navbar-brand" href="#">auth sys</a>
+    <a class="navbar-brand" href="#">Auth System</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

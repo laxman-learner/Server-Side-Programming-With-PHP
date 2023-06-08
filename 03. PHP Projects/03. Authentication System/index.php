@@ -1,4 +1,4 @@
-<?php require "includes/header.php"; ?>
+<?php require 'includes/header.php'; ?>
 
-hello from index
-<?php require "includes/footer.php"; ?>
+Welcome to Authentication System
+<?php require 'includes/footer.php'; ?>
